@@ -1,0 +1,23 @@
+{
+  "name": "riz-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome Detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizwanahmedziai/javascript_playground.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Rizwan Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizwanahmedziai/javascript_playground/issues"
+  },
+  "homepage": "https://github.com/rizwanahmedziai/javascript_playground#readme"
+}
